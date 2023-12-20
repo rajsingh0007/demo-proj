@@ -2,5 +2,5 @@
 
 first git project
 <br>
-owner - ayush singh
+owner - ayush singh (organization)
 
